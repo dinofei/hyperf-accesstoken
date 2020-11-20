@@ -2,12 +2,12 @@
 ```
 "bjyyb-hyperf-accesstoken": {
     "type": "path",
-    "url": "../hyperf-accesstoken"
+    "url": "https://github.com/dinofei/hyperf-accesstoken.git"
 }
 ```
 ## 安装
 
-`composer require bjyyb/hyperf-accesstoken`
+`composer require bjyyb/hyperf-accesstoken:dev-master`
 
 ## 发布配置文件 
 
