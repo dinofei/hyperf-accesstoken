@@ -1,7 +1,7 @@
 ## composer添加版本仓库
 ```
 "bjyyb-hyperf-accesstoken": {
-    "type": "path",
+    "type": "vcs",
     "url": "https://github.com/dinofei/hyperf-accesstoken.git"
 }
 ```
