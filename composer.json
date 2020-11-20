@@ -1,0 +1,25 @@
+{
+  "name": "bjyyb/hyperf-accesstoken",
+  "description": "hyperf-accesstoken身份认证组件",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ningfei",
+      "email": "1056593544@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bjyyb\\AccessToken\\": "./src"
+    }
+  },
+  "extra": {
+    "hyperf": {
+      "config": "Bjyyb\\AccessToken\\ConfigProvider"
+    }
+  }
+}
