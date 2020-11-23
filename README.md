@@ -71,9 +71,6 @@ $result = $tokenService->remove($token);
 
 `composer require bjyyb/hyperf-jwt:dev-main`
 
-### 发布jwt配置文件
-`php bin/hyperf.php vendor:publish bjyyb/hyperf-jwt`
-
 ### 添加配置 config/jwt.php
 ```php
 [
