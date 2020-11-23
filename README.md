@@ -1,9 +1,4 @@
 
-<pre>
-如果遇到下载次数限制，添加如下token：
-token: 2a952f1942a9b4e0c0e5a9342eca194bf6483a1a
-</pre>
-
 ## 安装
 
 `composer require bjyyb/hyperf-accesstoken:dev-main`
