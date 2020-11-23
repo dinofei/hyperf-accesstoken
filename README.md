@@ -1,13 +1,9 @@
-## composer添加版本仓库
-```
-"bjyyb-hyperf-accesstoken": {
-    "type": "vcs",
-    "url": "https://github.com/dinofei/hyperf-accesstoken.git"
-}
-```
+
 ## 安装
 
-`composer require bjyyb/hyperf-accesstoken:dev-master`
+`composer require bjyyb/hyperf-accesstoken:dev-main`
+
+token: 2a952f1942a9b4e0c0e5a9342eca194bf6483a1a
 
 ## 发布配置文件 
 
